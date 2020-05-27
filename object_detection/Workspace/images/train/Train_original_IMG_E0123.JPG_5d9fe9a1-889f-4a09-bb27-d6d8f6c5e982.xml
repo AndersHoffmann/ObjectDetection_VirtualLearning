@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>Train_original_IMG_E0123.JPG_5d9fe9a1-889f-4a09-bb27-d6d8f6c5e982.JPG</filename>
+	<path>C:\Users\Admin\Pictures\Tensorflow\models\research\object_detection\Images\Train\Train_original_IMG_E0123.JPG_5d9fe9a1-889f-4a09-bb27-d6d8f6c5e982.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>White Cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>1347</ymin>
+			<xmax>1567</xmax>
+			<ymax>2463</ymax>
+		</bndbox>
+	</object>
+</annotation>

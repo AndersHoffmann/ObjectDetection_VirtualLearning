@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>Train_original_IMG_E0103.JPG_676ad820-c15f-43d3-bd96-7ff4c8cca5d9.JPG</filename>
+	<path>C:\Users\Admin\Pictures\Tensorflow\models\research\object_detection\Images\Train\Train_original_IMG_E0103.JPG_676ad820-c15f-43d3-bd96-7ff4c8cca5d9.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wheel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>478</xmin>
+			<ymin>1331</ymin>
+			<xmax>1914</xmax>
+			<ymax>2789</ymax>
+		</bndbox>
+	</object>
+</annotation>
