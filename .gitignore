@@ -26,7 +26,10 @@ tensorflow/contrib/cmake/_build/
 /api_init_files_list.txt
 /estimator_api_init_files_list.txt
 *.whl
-
+*.tar.gz
+*.pb
+*.record
+*.ckpt
 # Android
 .gradle
 .idea
