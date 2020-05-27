@@ -30,6 +30,7 @@ tensorflow/contrib/cmake/_build/
 *.pb
 *.record
 *.ckpt
+*.data-00000-of-00001
 # Android
 .gradle
 .idea
